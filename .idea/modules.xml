@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Retrofit.iml" filepath="$PROJECT_DIR$/Retrofit.iml" />
+      <module fileurl="file://C:\Users\Boris\Desktop\java yossi\android lessons\retrofitAndroidhiveExample\Retrofit.iml" filepath="C:\Users\Boris\Desktop\java yossi\android lessons\retrofitAndroidhiveExample\Retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Boris\Desktop\java yossi\android lessons\retrofitAndroidhiveExample\app\app.iml" filepath="C:\Users\Boris\Desktop\java yossi\android lessons\retrofitAndroidhiveExample\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitAndroidhiveExample.iml" filepath="$PROJECT_DIR$/retrofitAndroidhiveExample.iml" />
     </modules>
   </component>
 </project>

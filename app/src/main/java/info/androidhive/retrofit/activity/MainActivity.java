@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     // TODO - insert your themoviedb.org API KEY here
-    private final static String API_KEY = "7e8f60e325cd06e164799af1e317d7a7";
+    private final static String API_KEY = "7feab044341d650481d056f7b6fe4441";
 
 
     @Override
